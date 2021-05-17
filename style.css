@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: arial;
+    font-size: 48px;
+}
+
+img {
+    width: 500px;
+    margin: 20px;
+}
+img:hover{
+    transform: scale(1.1);
+        transition: transform 0.5s;
+}
+#one {
+    background-color: beige;
+    height: 800px;
+}
+
+#two {
+    background-color: darkslategray;
+    height: 800px;
+}
+
+#three {
+    background-color: darkgoldenrod;
+    height: 800px;
+}
